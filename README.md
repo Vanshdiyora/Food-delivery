@@ -22,12 +22,11 @@ This project is a dynamic food ordering website developed using React.js for the
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/food-ordering-website.git
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-bash
-Copy code
-cd food-ordering-website
-Install the front-end dependencies:
+  ```bash
+   cd food-ordering-website
+3. Install the front-end dependencies:
 
 bash
 Copy code
